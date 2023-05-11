@@ -26,4 +26,4 @@ The challenge involves creating a responsive and accessible QR code generator we
 ![demo](https://github.com/salvedojuliao/page_qr-code-component/assets/44206400/38130dc3-800d-4a1e-b1f6-91669d341871)
 
 ## ▶️ How to access it?
-You can just need to <a href="https://salvedojuliao.github.io/page_qr-code-component/"> click here - Qr Code Component </a>
+You just need to click ➙ <a href="https://salvedojuliao.github.io/page_qr-code-component/"> Qr Code Component </a>
