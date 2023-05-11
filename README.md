@@ -14,7 +14,7 @@
 
 ## 📌 About 
 <p>
-The challenge involves creating a responsive and accessible QR code generator webpage using HTML, CSS, and JavaScript. The project requires the use of a third-party library for generating the QR code and emphasizes the importance of responsive design and accessibility. As a new developer, this challenge provides me an opportunity to experiment with different technologies and techniques.
+The challenge involves creating a responsive and accessible QR code generator webpage using HTML and SS. The project emphasizes the importance of responsive design and accessibility. As a developer, this challenge provides me an opportunity to experiment with different technologies and techniques.
 </p>
 
 ## ⚙️ Techniques and technologies used
