@@ -34,7 +34,7 @@ The challenge involves creating a responsive and accessible QR code generator we
 ***
 
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://salvedojuliao.github.io/page_qr-code-component/"> Qr Code Component </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/page_qr-code-component/"> Qr Code Component </a></b>
 
 ***
 
